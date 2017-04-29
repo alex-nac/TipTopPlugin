@@ -1,9 +1,9 @@
 <!DOCTYPE idea-plugin PUBLIC "Plugin/DTD" "http://plugins.intellij.net/plugin.dtd">
 <idea-plugin>
-  <name>Key promoter</name>
-  <description>Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)</description>
+  <name>TipTop</name>
+  <description>Help users learn IDE features teaching at the moment you need it</description>
   <version>1.0.11</version>
-  <vendor email="kashin_d@hotmail.ru">Dmitry Kashin</vendor>
+  <vendor email="alex.nac@yandex.ru">Alexander Nakonechny</vendor>
   <change-notes><![CDATA[<ul>
         <li> 1.0.11 </li>
         <ul>
