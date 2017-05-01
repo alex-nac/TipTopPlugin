@@ -40,7 +40,7 @@ public class KeyPromoter implements ApplicationComponent, AWTEventListener {
     private Settings mySettings;
 
     // Alarm object to perform animation effects
-    private Alarm myAlarm = new Alarm(Alarm.ThreadToUse.SHARED_THREAD);
+    private Alarm myAlarm = new Alarm();
 
     // Presentation and stats fields.
     private JWindow myTipWindow;

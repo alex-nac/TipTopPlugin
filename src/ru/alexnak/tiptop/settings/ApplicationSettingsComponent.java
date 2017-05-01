@@ -7,7 +7,7 @@ import com.intellij.openapi.components.Storage;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-@State(name="TipTopSettingsForm", storages={@Storage(file = "$APP_CONFIG$/KeyPromoter.xml", id = "TipTopSettingsForm")})
+@State(name="ApplicationSettingComponent", storages={@Storage(file = "$APP_CONFIG$/TipTop.xml", id = "TipTopSettings")})
 public class ApplicationSettingsComponent implements ApplicationComponent, PersistentStateComponent<Settings> {
     private Settings tipTopSettings = new Settings();
 

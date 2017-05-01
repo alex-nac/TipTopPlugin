@@ -26,6 +26,12 @@ public class MyConfigurable extends BaseConfigurable implements SearchableConfig
 
     @Nullable
     @Override
+    public String getHelpTopic() {
+        return null;
+    }
+
+    @Nullable
+    @Override
     public JComponent createComponent() {
         if (form == null) {
             form = new TipTopSettingsForm();

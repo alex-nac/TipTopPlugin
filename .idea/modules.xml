@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TipTopPlugin.iml" filepath="$PROJECT_DIR$/.idea/TipTopPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TipTopPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/TipTopPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TipTopPlugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TipTopPlugin_main.iml" group="TipTopPlugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TipTopPlugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TipTopPlugin_test.iml" group="TipTopPlugin" />
     </modules>
   </component>
 </project>

@@ -84,7 +84,7 @@
     </component>
   </application-components>
   <extensions defaultExtensionNs="com.intellij">
-    <applicationConfigurable groupId="tools" instance="ru.alexnak.tiptop.settings.MyConfigurable"/>
+    <applicationConfigurable instance="ru.alexnak.tiptop.settings.MyConfigurable"/>
   </extensions>
   <!-- Mark the plugin as compatible with RubyMine and other products based on the IntelliJ platform -->
   <depends>com.intellij.modules.lang</depends>
